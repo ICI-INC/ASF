@@ -5,7 +5,7 @@ function logar(){
 
     if(login == "Yasmin" && senha == "1998"){ //yasmin
         alert('Sucesso');
-        location.href = "https://ici-inc.github.io/ASF/3/index.html";
+        location.href = "https://ici-inc.github.io/ASF/menu/index.html";
 
     }
             
